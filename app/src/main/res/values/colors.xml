@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+
+    <color name="white">#eeeeee</color>
+    <color name="white_light">#9E9E9E</color>
+    <color name="black">#000000</color>
+
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
-    <color name="colorAccent">#D81B60</color>
+    <color name="colorAccent">#f45e45</color>
+
+    <color name="gradient_start">#0958a7</color>
+    <color name="gradient_end">#067bca</color>
+
+    <color name="row_color">#3694d2</color>
+
+    <color name="tab_selected">#f45e45</color>
+    <color name="tab_unselected">#3b78b7</color>
+
+    <color name="background">#242321</color>
+
+
 </resources>

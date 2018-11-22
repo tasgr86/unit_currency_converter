@@ -1,0 +1,52 @@
+<resources>
+
+    <string name="app_name">Μετατροπέας μονάδων</string>
+    <string name="fixer_api_key">720ef29edc70e4927bdef6e0d260ae77</string>
+    <string name="td">30842f7c80f80bb3ad8a2fb98195544d</string>
+
+    <string name="basic">Βασικά</string>
+    <string name="science">Επιστήμη</string>
+    <string name="everyday">ΚΑΘ/ΡΙΝΑ</string>
+    <string name="other">ΑΛΛΑ</string>
+    <string name="calculate">Υπολογισμοί</string>
+    <string name="settings">Ρυθμίσεις</string>
+
+    <string name="length">ΜΗΚΟΣ</string>
+    <string name="currency">ΝΟΜΙΣΜΑ</string>
+    <string name="weight_cap">ΒΑΡΟΣ</string>
+    <string name="area">ΕΚΤΑΣΗ</string>
+
+    <string name="fuel">ΚΑΥΣΙΜΑ</string>
+    <string name="temperature">ΘΕΡΜΟΚΡΑΣΙΑ</string>
+    <string name="volume">ΟΓΚΟΣ</string>
+    <string name="data">ΔΕΔΟΜΕΝΑ</string>
+
+    <string name="power">ΙΣΧΥΣ</string>
+    <string name="speed">TAXYTHTA</string>
+    <string name="time">ΧΡΟΝΟΣ</string>
+    <string name="energy">ΕΝΕΡΓΕΙΑ</string>
+
+    <string name="bmi">ΔΒΣ</string>
+    <string name="loan">ΔΑΝΕΙΟ</string>
+
+    <string name="weight">Βάρος (κιλά)</string>
+    <string name="height">Ύψος (εκατοστά)</string>
+
+    <string name="weight_missing">Παρακαλώ συμπληρώστε το ύψος σας</string>
+    <string name="height_missing">Παρακαλώ συμπληρώστε το βάρος σας</string>
+
+    <string name="loan_amount">Ποσό Δανείου</string>
+    <string name="annual_interest">Ετήσιο Επιτόκιο</string>
+    <string name="loan_period">Διάρκεια Δανείου (έτη)</string>
+
+    <string name="monthly_payment">Μηνιαία δόση δανείου</string>
+    <string name="total_amount">Συνολικό ποσό πληρωμής</string>
+    <string name="total_interest">Τόκοι δανείου</string>
+
+    <string name="bmi_result">Ο Δείκτης Βάρους Σώματος σας είναι : </string>
+    <string name="decimals_number">Αριθμός δεκαδικών : </string>
+
+    <string name="currencies">Νομίσματα</string>
+
+
+</resources>

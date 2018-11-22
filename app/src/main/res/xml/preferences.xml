@@ -1,0 +1,13 @@
+<PreferenceScreen
+        xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+            android:title="@string/currencies">
+
+        <tasos.grigoris.unitcurrencyconverter.MyCustomSeekbar
+                android:key="precision_seekbar"
+                android:layout="@layout/my_seekbar"/>
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
